@@ -10,8 +10,6 @@ description: 本書為 deno 官方手冊的正體中文翻譯版本（非官方�
 
 ### 貢獻者
 
-
-
 ### 撰寫風格
 
 * 全部使用中文全形標準符號。
@@ -23,6 +21,12 @@ description: 本書為 deno 官方手冊的正體中文翻譯版本（非官方�
 {% hint style="info" %}
 補充說明（非官方手冊內容）
 {% endhint %}
+
+### 用語
+
+<table><thead><tr><th>原文（英文）</th><th>翻譯（中文）</th><th data-hidden></th></tr></thead><tbody><tr><td>configuration</td><td>配置</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+1. configuration
 
 ### 待完成
 

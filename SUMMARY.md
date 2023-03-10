@@ -4,7 +4,7 @@
 * [簡介](jian-jie.md)
 * [開始使用 Deno](kai-shi-shi-yong-deno/README.md)
   * [安裝 Deno](kai-shi-shi-yong-deno/an-zhuang-deno.md)
-  * [Page 1](kai-shi-shi-yong-deno/page-1.md)
+  * [設置您的環境](kai-shi-shi-yong-deno/page-1.md)
   * [Page 2](kai-shi-shi-yong-deno/page-2.md)
   * [Page 4](kai-shi-shi-yong-deno/page-4.md)
   * [Page 3](kai-shi-shi-yong-deno/page-3.md)
